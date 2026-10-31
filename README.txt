@@ -1,2 +1,0 @@
-MY PROGRESS PHASE 1
-Upload all files to the root of a GitHub repository, enable GitHub Pages, then open its HTTPS URL on Android Chrome and install it. Data is local to this browser/device; export backups. This is a single-device prototype only. Secure multi-user accounts, invitation links, owner-only server permissions and shared leaderboard are Phase 2 and are not implemented yet.
